@@ -34,7 +34,7 @@ This project is designed to practice data cleaning techniques in Python using pa
 
 **Tools & Libraries**
 
-- Python (pandas, numpy)
+- Python: pandas
 
 **Skills Practiced**
 
