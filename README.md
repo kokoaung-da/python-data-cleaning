@@ -16,8 +16,6 @@ This project is designed to practice data cleaning techniques in Python using pa
 
 - Handle Missing values and remove duplicate rows.
 
-- Identify missing values
-
 - Check & Convert incorrect data types (e.g., customer_id to string).
 
 - Checking unique values for each categorical to see the data nature
