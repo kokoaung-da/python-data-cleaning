@@ -40,27 +40,27 @@ These projects make use of widely adopted Python libraries:
 
 - Filling, imputing, or removing values safely
 
-✔ Outlier Detection
+#### Outlier Detection
 
 - Rule-based and statistical techniques
 
-✔ Text Cleaning & Standardization
+#### Text Cleaning & Standardization
 
 - Removing noise and unwanted characters
 
 - Standardizing formats and extracting structured info
 
-✔ Data Type Corrections
+#### Data Type Corrections
 
 - Converting strings to numeric, datetime, or categorical values
 
-✔ Duplicate & Consistency Checks
+#### Duplicate & Consistency Checks
 
 - Finding exact and near-duplicate entries
 
 - Cleaning inconsistent labels and categories
 
-✔ Structural Improvements
+#### Structural Improvements
 
 - Renaming unclear columns
 
