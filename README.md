@@ -36,34 +36,34 @@ These projects make use of widely adopted Python libraries:
 
 ✔ Missing Data Handling
 
-Detecting patterns of missingness
+- Detecting patterns of missingness
 
-Filling, imputing, or removing values safely
+- Filling, imputing, or removing values safely
 
 ✔ Outlier Detection
 
-Rule-based and statistical techniques
+- Rule-based and statistical techniques
 
 ✔ Text Cleaning & Standardization
 
-Removing noise and unwanted characters
+- Removing noise and unwanted characters
 
-Standardizing formats and extracting structured info
+- Standardizing formats and extracting structured info
 
 ✔ Data Type Corrections
 
-Converting strings to numeric, datetime, or categorical values
+- Converting strings to numeric, datetime, or categorical values
 
 ✔ Duplicate & Consistency Checks
 
-Finding exact and near-duplicate entries
+- Finding exact and near-duplicate entries
 
-Cleaning inconsistent labels and categories
+- Cleaning inconsistent labels and categories
 
 ✔ Structural Improvements
 
-Renaming unclear columns
+- Renaming unclear columns
 
-Splitting, merging, or reshaping datasets
+- Splitting, merging, or reshaping datasets
 
-Ensuring tidy data format
+- Ensuring tidy data format
