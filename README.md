@@ -1,8 +1,8 @@
-# 🧹 Data Cleaning Projects with Python
+# Data Cleaning Projects with Python
 
 This repository contains a collection of data cleaning projects built using Python. Each project focuses on transforming raw, unstructured, or inconsistent datasets into clean, organized, and analysis-ready data. The goal is to demonstrate practical, real-world data cleaning techniques that can be reused or adapted for your own workflows.
 
-📌 Overview
+### Overview
 
 Data cleaning is one of the most important steps in any data pipeline. These projects walk through hands-on examples of how to:
 
@@ -20,7 +20,7 @@ Validate the quality of the cleaned results
 
 The projects are designed to be easy to explore, with each workflow documented in Jupyter notebooks.
 
-🛠️ Tools & Libraries Used
+### Tools & Libraries Used
 
 These projects make use of widely adopted Python libraries:
 
@@ -32,7 +32,7 @@ regex (re) for text cleaning
 
 Jupyter Notebook for interactive workflows
 
-✨ Key Cleaning Techniques Covered
+### Key Cleaning Techniques Covered
 
 ✔ Missing Data Handling
 
