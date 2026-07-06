@@ -34,7 +34,7 @@ These projects make use of widely adopted Python libraries:
 
 ### Key Cleaning Techniques Covered
 
-✔ Missing Data Handling
+#### Missing Data Handling
 
 - Detecting patterns of missingness
 
