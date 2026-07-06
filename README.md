@@ -6,17 +6,17 @@ This repository contains a collection of data cleaning projects built using Pyth
 
 Data cleaning is one of the most important steps in any data pipeline. These projects walk through hands-on examples of how to:
 
-Detect and handle missing values
+- Detect and handle missing values
 
-Identify and treat outliers
+- Identify and treat outliers
 
-Normalize and clean messy text data
+- Normalize and clean messy text data
 
-Correct inconsistent data types
+- Correct inconsistent data types
 
-Address duplicates and structural issues
+- Address duplicates and structural issues
 
-Validate the quality of the cleaned results
+- Validate the quality of the cleaned results
 
 The projects are designed to be easy to explore, with each workflow documented in Jupyter notebooks.
 
@@ -24,13 +24,13 @@ The projects are designed to be easy to explore, with each workflow documented i
 
 These projects make use of widely adopted Python libraries:
 
-pandas for data manipulation
+- pandas for data manipulation
 
-NumPy for numerical operations
+- NumPy for numerical operations
 
-regex (re) for text cleaning
+- regex (re) for text cleaning
 
-Jupyter Notebook for interactive workflows
+- Jupyter Notebook for interactive workflows
 
 ### Key Cleaning Techniques Covered
 
